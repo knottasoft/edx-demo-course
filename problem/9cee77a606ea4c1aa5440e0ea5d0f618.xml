@@ -1,19 +1,19 @@
-<problem parent_sequential_url="i4x://edX/DemoX/sequential/workflow" index_in_children_list="5" display_name="Interactive Questions" max_attempts="" rerandomize="never" showanswer="always" weight="">
-  <p>Most courses have interactive questions that test your knowledge like the one below.  They can be part of a learning sequence or an exam.  Notice the visual feedback.  Go ahead, try it out!</p>
-  <p>Questions which are part of assignments or exams may have due dates - the last possible time you can submit an assignment for grading. Once this time has passed, you will not be able to get credit for any incomplete problems in the assignment.</p>
-  <p>If an assignment has a due date, you can see the due date in the sidebar. (This demo course does not have any assignments with due dates.) If no due date is displayed, the assignment can be turned in at any time.</p>
-  <p>All assignment due dates are displayed in the time zone that you select in your account settings. If you do not specify a time zone, assignment due dates display in your browser's time zone.</p>
+<problem parent_sequential_url="i4x://edX/DemoX/sequential/workflow" index_in_children_list="5" display_name="Интерактивные вопросы" max_attempts="" rerandomize="never" showanswer="always" weight="">
+  <p>В большинстве курсов есть интерактивные вопросы, проверяющие ваши знания, как в приведенном ниже примере.  Они могут быть частью учебной последовательности или экзамена.  Обратите внимание на визуальную обратную связь.  Давайте, попробуйте!</p>
+  <p>Вопросы, которые являются частью заданий или экзаменов, могут иметь сроки сдачи - последнее возможное время, когда вы можете представить задание для оценки. По истечении этого времени вы не сможете получить зачет за невыполненные задачи в задании.</p>
+  <p>Если у задания есть срок сдачи, вы можете увидеть дату сдачи на боковой панели. (В этом демонстрационном курсе нет заданий со сроками выполнения). Если срок выполнения не указан, задание можно сдать в любое время.</p>
+  <p>Все сроки выполнения заданий отображаются в том часовом поясе, который вы выбрали в настройках учетной записи. Если вы не указали часовой пояс, сроки выполнения заданий отображаются в часовом поясе вашего браузера.</p>
   <h1/>
-  <p>What kinds of late policies does edX allow?</p>
+  <p>Какие виды политики опозданий допускает edX?</p>
   <choiceresponse>
     <checkboxgroup direction="vertical">
-      <choice correct="false">late penalties</choice>
-      <choice correct="false">instructor forgiveness</choice>
-      <choice correct="false">late time budget</choice>
-      <choice correct="true">none of the above</choice>
+      <choice correct="false">штраф за опоздание</choice>
+      <choice correct="false">допуск к пересдаче преподавателем</choice>
+      <choice correct="false">оплата за пересдачу</choice>
+      <choice correct="true">ничего из вышеперечисленного</choice>
     </checkboxgroup>
   </choiceresponse>
   <solution>
-    EdX does not accept any late assignments under any circumstances, so the answer is "none of the above". 
+    EdX не принимает задания с опозданием ни при каких обстоятельствах, поэтому ответ - "ничего из вышеперечисленного".
   </solution>
 </problem>
