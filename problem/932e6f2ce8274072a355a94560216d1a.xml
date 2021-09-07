@@ -1,10 +1,10 @@
-<problem display_name="Perchance to Dream" markdown="The paragraph contains references to sleepiness and an unexpected event. Why?&#10;&#10;( ) Feeling sleepy can cause white rabbits to appear.&#10;( ) There is foreshadowing of a tea party.&#10;(x) There is an implication that the strangeness to follow can be considered like a dream.&#10;&#10;" rerandomize="never" showanswer="always">
-  <p>The paragraph contains references to sleepiness and an unexpected event. Why?</p>
+<problem display_name="Видеть сны" markdown="The paragraph contains references to sleepiness and an unexpected event. Why?&#10;&#10;( ) Feeling sleepy can cause white rabbits to appear.&#10;( ) There is foreshadowing of a tea party.&#10;(x) There is an implication that the strangeness to follow can be considered like a dream.&#10;&#10;" rerandomize="never" showanswer="always">
+  <p>В абзаце содержатся ссылки на сонливость и неожиданное событие. Почему?</p>
   <multiplechoiceresponse>
     <choicegroup type="MultipleChoice">
-      <choice correct="false">Feeling sleepy can cause white rabbits to appear.</choice>
-      <choice correct="false">There is foreshadowing of a tea party.</choice>
-      <choice correct="true">There is an implication that the strangeness to follow can be considered like a dream.</choice>
+      <choice correct="false">Чувство сонливости может вызвать появление белых кроликов.</choice>
+      <choice correct="false">Есть предвестие чаепития.</choice>
+      <choice correct="true">Это намек на то, что последующие странности можно рассматривать как сон.</choice>
     </choicegroup>
   </multiplechoiceresponse>
 </problem>
