@@ -1,27 +1,27 @@
-<problem display_name="Multiple Choice Questions" markdown="Many edX courses have homework or exercises you need to complete.  Notice the clock image to the left?  That means this homework or exercise needs to be completed for you to pass the course. (This can be a bit confusing; the exercise may or may not have a due date prior to the end of the course.)&#10;&#10;We’ve provided eight (8) examples of how a professor might ask you questions. While the multiple choice question types below are somewhat standard, explore the other question types in the sequence above, like the formula builder- try them all out. &#10;&#10;As you go through the question types, notice how edX gives you immediate feedback on your responses - it really helps in the learning process.&#10;&#10;What color is the open ocean on a sunny day?&#10;&#10;[[yellow, (blue), green]]&#10;&#10;&#10;Which piece of furniture is built for sitting?&#10;&#10;( ) a table&#10;( ) a desk&#10;(x) a chair&#10;( ) a bookshelf&#10;&#10;Which of the following are musical instruments?&#10;&#10;[x] a piano&#10;[ ] a tree&#10;[x] a guitar&#10;[ ] a window&#10;&#10;&#10; " max_attempts="" rerandomize="never" showanswer="never" weight="">
-  <p>Many edX courses have homework or exercises you need to complete.  Notice the clock image to the left?  That means this homework or exercise needs to be completed for you to pass the course. (This can be a bit confusing; the exercise may or may not have a due date prior to the end of the course.)</p>
-  <p>We’ve provided eight (8) examples of how a professor might ask you questions. While the multiple choice question types below are somewhat standard, explore the other question types in the sequence above, like the formula builder- try them all out. </p>
-  <p>As you go through the question types, notice how edX gives you immediate feedback on your responses - it really helps in the learning process.</p>
-  <p>What color is the open ocean on a sunny day?</p>
+<problem display_name="Вопросы с множественным выбором" markdown="Many edX courses have homework or exercises you need to complete.  Notice the clock image to the left?  That means this homework or exercise needs to be completed for you to pass the course. (This can be a bit confusing; the exercise may or may not have a due date prior to the end of the course.)&#10;&#10;We’ve provided eight (8) examples of how a professor might ask you questions. While the multiple choice question types below are somewhat standard, explore the other question types in the sequence above, like the formula builder- try them all out. &#10;&#10;As you go through the question types, notice how edX gives you immediate feedback on your responses - it really helps in the learning process.&#10;&#10;What color is the open ocean on a sunny day?&#10;&#10;[[yellow, (blue), green]]&#10;&#10;&#10;Which piece of furniture is built for sitting?&#10;&#10;( ) a table&#10;( ) a desk&#10;(x) a chair&#10;( ) a bookshelf&#10;&#10;Which of the following are musical instruments?&#10;&#10;[x] a piano&#10;[ ] a tree&#10;[x] a guitar&#10;[ ] a window&#10;&#10;&#10; " max_attempts="" rerandomize="never" showanswer="never" weight="">
+  <p>Во многих курсах edX есть домашние задания или упражнения, которые необходимо выполнить.  Обратили внимание на изображение часов слева?  Это означает, что данное домашнее задание или упражнение должно быть выполнено, чтобы вы прошли курс. (Это может быть немного запутанным; упражнение может иметь или не иметь дату сдачи до конца курса).</p>
+  <p>Мы привели восемь (8) примеров того, как профессор может задавать вам вопросы. Хотя приведенные ниже типы вопросов с множественным выбором являются в некоторой степени стандартными, изучите другие типы вопросов в последовательности выше, например, построение формулы - попробуйте их все. </p>
+  <p>Просматривая типы вопросов, обратите внимание, как edX дает вам немедленную обратную связь по вашим ответам - это действительно помогает в процессе обучения.</p>
+  <p>Какого цвета открытый океан в солнечный день?</p>
   <optionresponse>
-    <optioninput options="('yellow','blue','green')" correct="blue"/>
+    <optioninput options="('желтый','голубой','зеленый')" correct="голубой"/>
   </optionresponse>
-  <p>Which piece of furniture is built for sitting?</p>
+  <p>Какой предмет мебели предназначен для сидения?</p>
   <multiplechoiceresponse>
     <choicegroup type="MultipleChoice">
-      <choice correct="false">a table</choice>
-      <choice correct="false">a desk</choice>
-      <choice correct="true">a chair</choice>
-      <choice correct="false">a bookshelf</choice>
+      <choice correct="false">стол</choice>
+      <choice correct="false">письменный стол</choice>
+      <choice correct="true">стул</choice>
+      <choice correct="false">книжная полка</choice>
     </choicegroup>
   </multiplechoiceresponse>
-  <p>Which of the following are musical instruments?</p>
+  <p>Что из нижеперечисленного музыкальные инструменты?</p>
   <choiceresponse>
     <checkboxgroup direction="vertical">
-      <choice correct="true">a piano</choice>
-      <choice correct="false">a tree</choice>
-      <choice correct="true">a guitar</choice>
-      <choice correct="false">a window</choice>
+      <choice correct="true">пианино</choice>
+      <choice correct="false">дерево</choice>
+      <choice correct="true">гитара</choice>
+      <choice correct="false">окно</choice>
     </checkboxgroup>
   </choiceresponse>
   <p> </p>

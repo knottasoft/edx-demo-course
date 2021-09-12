@@ -1,4 +1,4 @@
-<problem display_name="Выбирая изображение" max_attempts="" rerandomize="never" showanswer="always" weight="">
+<problem display_name="Выбор изображения" max_attempts="" rerandomize="never" showanswer="always" weight="">
   <p>
 Некоторые вопросы курса могут показывать вам изображение и предлагать щелкнуть по нему, чтобы ответить на вопрос. Попробуйте этот пример. (Если вы правы, вы увидите нашу знаменитую зеленую галочку.)
 </p>
