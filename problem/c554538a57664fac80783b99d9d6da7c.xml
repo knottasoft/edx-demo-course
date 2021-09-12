@@ -1,15 +1,15 @@
-<problem display_name="Pointing on a Picture" max_attempts="" rerandomize="never" showanswer="always" weight="">
+<problem display_name="Выбирая изображение" max_attempts="" rerandomize="never" showanswer="always" weight="">
   <p>
-Some course questions may show you an image and ask that you click on it to answer a question. Try this example. (If you are correct you will see our famous green check mark.)
+Некоторые вопросы курса могут показывать вам изображение и предлагать щелкнуть по нему, чтобы ответить на вопрос. Попробуйте этот пример. (Если вы правы, вы увидите нашу знаменитую зеленую галочку.)
 </p>
-  <p>Which animal is a kitten?</p>
+  <p>Какое животное является котенком?</p>
   <imageresponse>
     <imageinput src="/c4x/edX/DemoX/asset/Dog-and-Cat.jpg" width="640" height="400" rectangle="(385,98)-(600,337)"/>
   </imageresponse>
   <solution>
     <div class="detailed-solution">
-      <p>Explanation</p>
-      <p>The domestic cat, or kitten (Latin name <i>Felis silvestris catus</i>) is to the right in this photograph.</p>
+      <p>Правильный ответ</p>
+      <p>Домашняя кошка, или котенок (латинское название <i>Felis silvestris catus</i>), на этой фотографии находится справа.</p>
     </div>
   </solution>
 </problem>
